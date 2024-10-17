@@ -1,6 +1,13 @@
 # 内容：AppleNews
-# 数量：4条
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
 DOMAIN,gspe1-ssl.ls.apple.com
 PROCESS-NAME,News
+DOMAIN-SUFFIX,apple-enews.com
+DOMAIN-SUFFIX,newschristmasshopping.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,appleenews.com
+DOMAIN-SUFFIX,applenews.berlin
+DOMAIN-SUFFIX,applenews.hamburg
+DOMAIN-SUFFIX,applenews.tv
+DOMAIN-SUFFIX,applenewsformat.com
