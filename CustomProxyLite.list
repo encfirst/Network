@@ -1,4 +1,5 @@
 # 代理补充列表
+DOMAIN-SUFFIX,githubusercontent.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
@@ -12,7 +13,6 @@ IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dns.umbrella.com
