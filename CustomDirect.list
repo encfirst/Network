@@ -1,6 +1,12 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+#可可影视
+DOMAIN-SUFFIX,keke1.app
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,diygod.dev
+IP-CIDR,137.175.38.148/32
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,encfirst.space
 DOMAIN-SUFFIX,sonobus.net
