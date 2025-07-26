@@ -1,5 +1,10 @@
 # 代理补充列表
 
+# Macked
+DOMAIN-KEYWORD,macked
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,userapi.com
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,hongxingyunmovie.vip
