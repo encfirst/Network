@@ -12,11 +12,11 @@ DOMAIN-KEYWORD,baidu
 
 #可可影视
 # 主站及视频资源域名走代理
-DOMAIN-SUFFIX,keke1.app,Proxy
-DOMAIN-SUFFIX,cfaqcgj.com,Proxy
-DOMAIN-SUFFIX,rsfcxq.com,Proxy
+DOMAIN-SUFFIX,keke1.app
+DOMAIN-SUFFIX,cfaqcgj.com
+DOMAIN-SUFFIX,rsfcxq.com
 
 # 关键视频服务器 IP，CIDR 形式
-IP-CIDR,137.175.0.0/16,Proxy
-IP-CIDR,103.147.224.0/21,Proxy
-IP-CIDR,142.0.137.184/32,Proxy
+IP-CIDR,137.175.0.0/16
+IP-CIDR,103.147.224.0/21
+IP-CIDR,142.0.137.184/32
