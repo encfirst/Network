@@ -1,18 +1,13 @@
 # 代理补充列表
 
-# 内容:AppleNews
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-DOMAIN,gspe1-ssl.ls.apple.com
-PROCESS-NAME,News
-DOMAIN-SUFFIX,apple-enews.com
-DOMAIN-SUFFIX,newschristmasshopping.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,appleenews.com
-DOMAIN-SUFFIX,applenews.berlin
-DOMAIN-SUFFIX,applenews.hamburg
-DOMAIN-SUFFIX,applenews.tv
-DOMAIN-SUFFIX,applenewsformat.com
+# AppleNews
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN-SUFFIX,comscoreresearch.com,AppleNews
+
+# AppleNews Audio
+DOMAIN,news-assets.apple.com,AppleNews
+URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*
 
 # Macked
 DOMAIN-KEYWORD,macked
