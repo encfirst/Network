@@ -39,6 +39,8 @@ IP-CIDR,155.94.130.22/32,no-resolve
 IP-CIDR,155.94.130.107/32,no-resolve
 IP-CIDR,155.94.130.108/32,no-resolve
 IP-CIDR,155.94.130.214/32,no-resolve
+IP-CIDR,107.172.186.22/32,no-resolve
+IP-CIDR,107.172.186.23/32,no-resolve
 
 
 # NAME: DouYin
