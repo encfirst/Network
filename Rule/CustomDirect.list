@@ -12,14 +12,33 @@ DOMAIN-KEYWORD,baidu
 
 #可可影视
 # 主站及视频资源域名走代理
-DOMAIN-SUFFIX,keke1.app
-DOMAIN-SUFFIX,cfaqcgj.com
-DOMAIN-SUFFIX,rsfcxq.com
+DOMAIN-SUFFIX,kkys20.com
+DOMAIN-SUFFIX,dgmckj.com
+DOMAIN-SUFFIX,fengbao9.com
+DOMAIN-SUFFIX,wlcdn99.com
+DOMAIN-SUFFIX,jisuts.com
+DOMAIN-SUFFIX,lzcdn31.com
+DOMAIN-SUFFIX,bfvvs.com
+DOMAIN-SUFFIX,jisuzyv.com
+DOMAIN-SUFFIX,xlzyd.com
+DOMAIN-SUFFIX,ffzy-video.com
+DOMAIN-SUFFIX,bfzycdn.com
+DOMAIN-SUFFIX,ymuuy.com
+DOMAIN-SUFFIX,ffzy-play7.com
+DOMAIN-SUFFIX,xluuss.com
+DOMAIN-SUFFIX,play-cdn2.com
+DOMAIN-SUFFIX,yzzyvip-32.com
+DOMAIN-SUFFIX,dytt-kan.com
 
 # 关键视频服务器 IP，CIDR 形式
-IP-CIDR,137.175.0.0/16
-IP-CIDR,103.147.224.0/21
-IP-CIDR,142.0.137.184/32
+IP-CIDR,43.248.102.222/32,no-resolve
+IP-CIDR,107.172.23.42/32,no-resolve
+IP-CIDR,107.172.23.43/32,no-resolve
+IP-CIDR,107.172.186.213/32,no-resolve
+IP-CIDR,155.94.130.22/32,no-resolve
+IP-CIDR,155.94.130.107/32,no-resolve
+IP-CIDR,155.94.130.108/32,no-resolve
+IP-CIDR,155.94.130.214/32,no-resolve
 
 
 # NAME: DouYin
